@@ -1,15 +1,15 @@
-# Rise of the AI – CS-UY 3113
+# Underground Fight Club – CS-UY 3113
 
 **Author:** Johann Varghese  
 **Course:** CS-UY 3113  
-**Assignment:** Rise of the AI  
+**Assignment:** Final Project  
 **Date Due:** 04/25/2026
 
 ---
 
 ## Description
 
-Rise of the AI is a top-down rap battle adventure game built using Raylib in C++.
+UG Fightclub is a top-down rap battle adventure game built using Raylib in C++.
 
 You play as an up-and-coming rapper trying to make a name for yourself at an underground club. Talk to NPCs, win a gambling game, get your drip, battle Offset, survive a dark maze, and face the final boss — Playboi Carti.
 
